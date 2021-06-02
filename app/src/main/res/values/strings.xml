@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SAF PDF Demo</string>
+    <string name="shared_preferences">com.reakabc.safpdfdemo.preferences</string>
+    <string name="last_uri">123</string>
+</resources>
